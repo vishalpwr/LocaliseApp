@@ -1,0 +1,15 @@
+{
+  "hello": "Hello",
+  "outcome": "Outcome",
+  "tax": "Tax",
+  "clothing": "Clothing",
+  "electronic": "Electronic",
+  "transport": "Transport",
+  "shoes": "Shoes",
+  "summeryText": "Here, you can see a full summary of your past expenses.",
+  "changeLanguage": "Change Language",
+  "english": "English",
+  "Hindi": "Hindi",
+  "French": "French",
+  "Mandarin": "Mandarin"
+}
