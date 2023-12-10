@@ -1,0 +1,16 @@
+export default {
+  primary: '#002D6B',
+  primaryL1: '#002D6B10',
+  primaryL2: '#002D6B20',
+  primaryL3: '#002D6B30',
+  primaryL4: '#002D6B40',
+  white: '#fff',
+  black: '#101010',
+  light: '#888888',
+  text1: '#101010',
+  text2: '#F6F5F0',
+  coral: 'coral',
+  barColor: 'rgba(255,255,255,0.7)',
+  color1: '#02818C',
+  color2: '#7AA9B1',
+}
